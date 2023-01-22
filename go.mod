@@ -1,4 +1,4 @@
-module github.com/kuangyeco/gfast-cache
+module github.com/kuangyeco/gf-cache
 
 go 1.15
 
