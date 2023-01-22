@@ -1,4 +1,4 @@
-# gfast-cache
+# gf-cache
 cache with memory or redis
 
 ## Requirements
