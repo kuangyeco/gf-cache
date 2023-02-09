@@ -10,7 +10,7 @@ gf version >= v2.0.0
 ## Installation
 
 ```shell script
-go get -u github.com/tiger1103/gfast-cache
+go get -u github.com/kuangyeco/gfast-cache
 ```
 
 ## Usage
