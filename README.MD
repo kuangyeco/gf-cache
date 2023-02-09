@@ -17,7 +17,7 @@ go get -u github.com/tiger1103/gfast-cache
 
 ### Import
 ```go
-import "github.com/tiger1103/gfast-cache"
+import "github.com/kuangyeco/gfast-cache"
 ```
 
 ### Memory Cache
