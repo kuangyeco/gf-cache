@@ -1,10 +1,3 @@
-/*
-* @desc:功能测试
-* @company:云南奇讯科技有限公司
-* @Author: yixiaohu
-* @Date:   2022/2/23 9:13
- */
-
 package test
 
 import (
@@ -12,7 +5,7 @@ import (
 	"fmt"
 	"github.com/gogf/gf/v2/database/gredis"
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/tiger1103/gfast-cache/cache"
+	"github.com/kuangyeco/gfast-cache/cache"
 	"testing"
 )
 
